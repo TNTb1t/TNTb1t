@@ -1,30 +1,33 @@
 <p align="center">
-  <a href="">
-    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
-  </a>
+  <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
 </p>
 
-<h1 align="center">hi, i'm <a href="https://yuna0x0.com">TNTb1t</a>!</h1>
-<!-- <p align="center">
-  <a href="">
-    <img src="https://yuna0x0.com/88x31.webp" alt="TNTb1t">
-  </a>
-</p>
-<h3 align="center">welcome to my profile :3</h3>
-
-<p align="center">i'm a catgirl researcher in ml, infosec and game dev～☆</p>
+<h1 align="center">
+  你好，我是 <a href="https://github.com/tntb1t">TNTb1t</a> 👋
+</h1>
 
 <p align="center">
-  <strong><a href="https://yuna0x0.com">Website</a></strong> |
-  <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
-  <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
+  <i>Java 后端开发者 · 持续学习中</i>
+</p>
+
+<h2>👨‍💻 关于我</h2>
+
+<ul>
+  <li>💻 Java 后端开发</li>
+  <li>🌱 正在学习 Linux、Docker 和 AI Coding</li>
+  <li>📝 使用 Obsidian 记录学习和生活</li>
+  <li>🎮 喜欢 CS2、英雄联盟、Terraria</li>
+  <li>📺 动画爱好者</li>
+</ul>
+
+<h2>🎮 兴趣爱好</h2>
+
+<p>
+  🎮 CS2 · 英雄联盟 · Terraria
+  <br>
+  🎬 动画 · 🎵 音乐 · 🍜 美食 · ✈️ 旅行
 </p>
 
 <p align="center">
-	<a href="https://octo-ring.com/p/yuna0x0/prev">&larr;</a>
-	<a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
-	<a href="https://octo-ring.com/p/yuna0x0/random">🎲</a>
-	<a href="https://octo-ring.com/p/yuna0x0/next">&rarr;</a>
-</p> -->
+  <i>「 持续学习，持续折腾。 」</i>
+</p>
