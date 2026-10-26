@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
-</p>
-
 <h1 align="center">
   你好，我是 <a href="https://github.com/tntb1t">TNTb1t</a> 👋
 </h1>
